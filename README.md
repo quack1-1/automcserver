@@ -4,6 +4,8 @@ auto-generate a minecraft server
 Auto generate a vanilla minecraft, PaperMC (bukkit) server, fabric server, or a bukkit server with my own list of plugins installed.
 Option to auto start the server after it generates as well.
 
+Add to /bin directory on linux, or add script to directory you want server to generate. (only run command from within the desired directory! Server will begin generating in that location)
+
 # Usage
 `mcserver --help`
 ```
